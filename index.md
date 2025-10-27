@@ -5,8 +5,15 @@
 
 ``` javascript
 var myVar = "Hello, world!";
-``` 
+```
+
+- [ ] log into GitHub account
+- [ ] click on your profile picture
+- [ ] Introduce yourself
+
+
 I added multiple icons to make the font size smaller
+
 
 
 
